@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Lucas 👋
 
-I'm learning programming and building my skills step by step.
+I'm learning programming step by step and building small projects to practice what I learn.
 
 ## 🛠️ Skills
 
@@ -9,12 +9,22 @@ I'm learning programming and building my skills step by step.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+- Python fundamentals (programming logic)
+
 ## 📚 Currently studying
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+- Procedural and functional programming (functions, loops)
 - Object-oriented programming (OOP)
-- Automated testing and TDD
-- Design patterns
-- Algorithms and programming logic
+- Useful Python modules and databases (SQLite, MySQL)
+- GUI development with PySide6
+- Automated testing and TDD (Pytest, Unittest)
+- Regular expressions (Regex)
+- Design patterns (GoF)
+
+## 🚀 Projects
+
+- [CPF Validator & Generator](https://github.com/pedroalvnz/validador-de-cpf-python): simple Python scripts to validate and generate CPF numbers
