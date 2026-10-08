@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Lucas 👋
+# Hi, I'm Pedro Lucas 👋 | I'm interested in studying Artificial Intelligence.
 
 I'm learning programming step by step and building small projects to practice what I learn.
 
