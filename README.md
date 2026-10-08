@@ -1,6 +1,6 @@
-# Hi, I'm Pedro Lucas 👋 | I'm interested in studying Artificial Intelligence.
+# Hi, I'm Pedro Lucas 👋
 
-I'm learning programming step by step and building small projects to practice what I learn.
+I'm learning programming step by step and building small projects to practice what I learn. My long-term goal is to work with **Artificial Intelligence**.
 
 ## 🛠️ Skills
 
@@ -24,6 +24,10 @@ I'm learning programming step by step and building small projects to practice wh
 - Automated testing and TDD (Pytest, Unittest)
 - Regular expressions (Regex)
 - Design patterns (GoF)
+
+## 🎯 Next goals
+
+- Artificial Intelligence (AI)
 
 ## 🚀 Projects
 
